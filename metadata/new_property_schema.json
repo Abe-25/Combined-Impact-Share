@@ -1,0 +1,192 @@
+[
+  {
+    "property": {
+      "id": 1,
+      "type": "Apartment",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Chennai"
+    },
+    "specifications": {
+      "area_sqft": 1200,
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 8500000,
+      "rental_yield_percent": 3.5
+    }
+  },
+  {
+    "property": {
+      "id": 2,
+      "type": "Villa",
+      "status": "Under Construction"
+    },
+    "location": {
+      "city": "Bengaluru"
+    },
+    "specifications": {
+      "area_sqft": 2500,
+      "bedrooms": 4,
+      "bathrooms": 4
+    },
+    "financials": {
+      "price_inr": 22000000,
+      "rental_yield_percent": 4.2
+    }
+  },
+  {
+    "property": {
+      "id": 3,
+      "type": "Office",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Hyderabad"
+    },
+    "specifications": {
+      "area_sqft": 5000,
+      "bedrooms": 0,
+      "bathrooms": 4
+    },
+    "financials": {
+      "price_inr": 45000000,
+      "rental_yield_percent": 6.8
+    }
+  },
+  {
+    "property": {
+      "id": 4,
+      "type": "Apartment",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Mumbai"
+    },
+    "specifications": {
+      "area_sqft": 900,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 15000000,
+      "rental_yield_percent": 3.1
+    }
+  },
+  {
+    "property": {
+      "id": 5,
+      "type": "Apartment",
+      "status": "Under Construction"
+    },
+    "location": {
+      "city": "Pune"
+    },
+    "specifications": {
+      "area_sqft": 1100,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 7800000,
+      "rental_yield_percent": 3.8
+    }
+  },
+  {
+    "property": {
+      "id": 6,
+      "type": "Retail",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Delhi"
+    },
+    "specifications": {
+      "area_sqft": 3000,
+      "bedrooms": 0,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 32000000,
+      "rental_yield_percent": 5.5
+    }
+  },
+  {
+    "property": {
+      "id": 7,
+      "type": "Villa",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Chennai"
+    },
+    "specifications": {
+      "area_sqft": 2800,
+      "bedrooms": 4,
+      "bathrooms": 3
+    },
+    "financials": {
+      "price_inr": 18000000,
+      "rental_yield_percent": 4.0
+    }
+  },
+  {
+    "property": {
+      "id": 8,
+      "type": "Apartment",
+      "status": "Under Construction"
+    },
+    "location": {
+      "city": "Kolkata"
+    },
+    "specifications": {
+      "area_sqft": 1000,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 6500000,
+      "rental_yield_percent": 3.3
+    }
+  },
+  {
+    "property": {
+      "id": 9,
+      "type": "Warehouse",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Ahmedabad"
+    },
+    "specifications": {
+      "area_sqft": 10000,
+      "bedrooms": 0,
+      "bathrooms": 6
+    },
+    "financials": {
+      "price_inr": 55000000,
+      "rental_yield_percent": 7.2
+    }
+  },
+  {
+    "property": {
+      "id": 10,
+      "type": "Apartment",
+      "status": "Ready to Move"
+    },
+    "location": {
+      "city": "Coimbatore"
+    },
+    "specifications": {
+      "area_sqft": 1400,
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    "financials": {
+      "price_inr": 7200000,
+      "rental_yield_percent": 3.9
+    }
+  }
+]

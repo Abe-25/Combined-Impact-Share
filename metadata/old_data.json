@@ -1,0 +1,112 @@
+[
+  {
+    "Property_ID":1,
+    "City":"Chennai",
+    "Property_Type":"Residential",
+    "Asset_Class":"Apartment",
+    "Area_SqFt":1200,
+    "Price_INR":8500000,
+    "Status":"Ready to Move",
+    "Bedrooms":3,
+    "Bathrooms":2
+  },
+  {
+    "Property_ID":2,
+    "City":"Bengaluru",
+    "Property_Type":"Residential",
+    "Asset_Class":"Villa",
+    "Area_SqFt":2500,
+    "Price_INR":22000000,
+    "Status":"Under Construction",
+    "Bedrooms":4,
+    "Bathrooms":4
+  },
+  {
+    "Property_ID":3,
+    "City":"Hyderabad",
+    "Property_Type":"Commercial",
+    "Asset_Class":"Office",
+    "Area_SqFt":5000,
+    "Price_INR":45000000,
+    "Status":"Ready to Move",
+    "Bedrooms":0,
+    "Bathrooms":4
+  },
+  {
+    "Property_ID":4,
+    "City":"Mumbai",
+    "Property_Type":"Residential",
+    "Asset_Class":"Apartment",
+    "Area_SqFt":900,
+    "Price_INR":15000000,
+    "Status":"Ready to Move",
+    "Bedrooms":2,
+    "Bathrooms":2
+  },
+  {
+    "Property_ID":5,
+    "City":"Pune",
+    "Property_Type":"Residential",
+    "Asset_Class":"Apartment",
+    "Area_SqFt":1100,
+    "Price_INR":7800000,
+    "Status":"Under Construction",
+    "Bedrooms":2,
+    "Bathrooms":2
+  },
+  {
+    "Property_ID":6,
+    "City":"Delhi",
+    "Property_Type":"Commercial",
+    "Asset_Class":"Retail",
+    "Area_SqFt":3000,
+    "Price_INR":32000000,
+    "Status":"Ready to Move",
+    "Bedrooms":0,
+    "Bathrooms":2
+  },
+  {
+    "Property_ID":7,
+    "City":"Chennai",
+    "Property_Type":"Residential",
+    "Asset_Class":"Villa",
+    "Area_SqFt":2800,
+    "Price_INR":18000000,
+    "Status":"Ready to Move",
+    "Bedrooms":4,
+    "Bathrooms":3
+  },
+  {
+    "Property_ID":8,
+    "City":"Kolkata",
+    "Property_Type":"Residential",
+    "Asset_Class":"Apartment",
+    "Area_SqFt":1000,
+    "Price_INR":6500000,
+    "Status":"Under Construction",
+    "Bedrooms":2,
+    "Bathrooms":2
+  },
+  {
+    "Property_ID":9,
+    "City":"Ahmedabad",
+    "Property_Type":"Industrial",
+    "Asset_Class":"Warehouse",
+    "Area_SqFt":10000,
+    "Price_INR":55000000,
+    "Status":"Ready to Move",
+    "Bedrooms":0,
+    "Bathrooms":6
+  },
+  {
+    "Property_ID":10,
+    "City":"Coimbatore",
+    "Property_Type":"Residential",
+    "Asset_Class":"Apartment",
+    "Area_SqFt":1400,
+    "Price_INR":7200000,
+    "Status":"Ready to Move",
+    "Bedrooms":3,
+    "Bathrooms":2
+  }
+]

@@ -1,0 +1,10 @@
+streamlit
+pandas
+networkx
+graphviz
+pyyaml
+snowflake-connector-python
+azure-storage-blob
+azure-keyvault-secrets
+azure-identity
+cryptography

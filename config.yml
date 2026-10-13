@@ -1,0 +1,37 @@
+dev:
+  key_vault: ''
+  blob_storage:
+    secret_name: ''
+    container_name: geo-layers
+    base_prefix: geotel/loading
+    target_prefix: ''
+    overwrite_geojson: true
+    continue_on_error: false
+  ingestion:
+    target_epsg: 4326
+    include_layers:
+    - GTC_DataCenters_0426
+    - GTC_FiberRoutes_0426
+    - GTC_FiberLitBuildings_0426
+    exclude_layers: []
+    include_nonspatial_tables: true
+  load:
+    pattern_ext: \\.geojson$
+  snowflake:
+  - name: PRODUCT_LND.ETL_TEST.GEOTEL
+    account: FYRMVLG-PRODUCT_LND
+    database: ETL_TEST
+    schema: GEOTEL_FIBERLINES
+    stage: GEOTEL_STAGE
+    user: AIRFLOW_USER
+    private_key:
+      secret_name: ''
+    role: ROL_ETL
+    warehouse: VWH_ETL
+    storage_integration: ETL_PRODUCT_INTEGRATION_LND
+    term_target_table: ''
+    pipe_target_table: ''
+    load_mode: append
+    dataset_level: 3
+    table_schema: ID VARCHAR(255), METADATA VARIANT, PAYLOAD VARIANT, INGESTION_TIMESTAMP
+      TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP()
